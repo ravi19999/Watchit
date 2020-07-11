@@ -1,0 +1,23 @@
+{
+  "name": "watchit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi19999/Watchit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi19999/Watchit/issues"
+  },
+  "homepage": "https://github.com/ravi19999/Watchit#readme",
+  "bin": {
+    "watchit": "index.js"
+  }
+}
