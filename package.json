@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ravi19999/Watchit#readme",
   "bin": {
     "watchit": "index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.4.0"
   }
 }
